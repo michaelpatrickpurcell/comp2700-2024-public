@@ -1,3 +1,3 @@
 # COMP2700 2024
 
-This is where you can find files that you will need to complete the labs and assignements for this course.
+This is where you can find files that you will need to complete the labs and assignments for this course.
